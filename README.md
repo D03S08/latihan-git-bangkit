@@ -1,2 +1,3 @@
 # latihan-git-bangkit
-repo ini hanya berisi latihan menggunakan git
+I am editing the README file. Adding some more details about the project description
+
